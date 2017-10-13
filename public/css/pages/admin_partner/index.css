@@ -1,0 +1,37 @@
+#partner {
+    border: 1px solid #eee;
+    width: 100%;
+    margin: 2px;
+    padding: 5px 3px;
+}
+
+#partner li {
+    margin: 2px;
+    height: 100%;
+    line-height: 100%;
+    font-size: 1.2em;
+    width: 100%;
+}
+
+#partner li i {
+    float: right;
+    line-height: 50px;
+}
+
+#partner li i span {
+    float: left;
+    margin-left: 5px;
+}
+
+.modal-header {
+    background: cornflowerblue;
+}
+
+
+ul li img {
+    width: 150px;
+    height: 70px;
+}
+.flot-right{
+    float: right;
+}
